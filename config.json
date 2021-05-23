@@ -1,0 +1,36 @@
+
+
+{
+  "TOKEN": "ODQ1OTMyNzc0ODA4MjIzNzg0.YKoKSg.KSQ-y8sDoSeRmhx_jfDhHoReiOM",
+  "YOUTUBE_API_KEY": "AIzaSyA15eg6CqdExKYosmRkXAGLbdsKrbFaGBs",
+
+
+  "EMOJI_ARROW": "🎶",
+  "EMOJI_DONE": "✅",
+  "EMOJI_ERROR": "⛔️",
+  "EMOJI_STARTED_PLAYING": "🎧",
+  "EMOJI_LINE":"📀",
+
+
+  "BOT_ID": "845932774808223784",
+  "BOT_OWNER_ID": "818785013977317377",
+  "SERVER_INVITE": "https://discord.gg/kRcwgydqK2",
+
+  "PREFIX": "-",
+  "BOT_PREFIX": "-",
+
+
+  "BOT_STATUS2":"-Play",
+  "BOT_STATUS3": "-Gen Z nation",
+  
+  "BOT_PRESENCE" : "PLAYING",
+
+  "SOUNDCLOUD_CLIENT_ID": "",
+  "MAX_PLAYLIST_SIZE": 900,
+  "PRUNING": true,
+  "STAY_TIME": 3000,
+  "DEFAULT_VOLUME": 100
+}
+
+
+     
